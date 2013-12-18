@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">在线考试</string>
+    <string name="action_settings">Settings</string>
+    <string name="baidu.com">www.baidu.com</string>
+	<string name="exam_info">
+考试科目：core java  考生编号：1001\n
+考题数量：20  考试时间：10分钟</string>
+	<string name="question">
+1.能直接由计算机硬件识别的是______。\n
+A.高级语言\n
+B.中级语言\n
+C.汇编语言\n
+D.机器语言    
+	</string>
+</resources>
